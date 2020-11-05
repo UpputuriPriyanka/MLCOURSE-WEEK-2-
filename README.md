@@ -11,23 +11,32 @@ It provides movies information and calculates the Expression.
 
 * DESCRIPTION:
 
-1.Firstly, It greet the User and asks the name of a user.
+  1. Firstly, It greet the User and asks the name of a user.
 
-2.After it welcomes the user and asks how to help the user.
+  2. After it welcomes the user and asks how to help the user.
 
-3.Next it offer choices and asks to pick one of the choices based upon user requirement. 
+  3. Next it offer choices and asks to pick one of the choices based upon user requirement. 
 
-4.If users picks option 1 ... then it asks user to  enter a expression 
+  4. If users picks option 1 ... then it asks user to  enter a expression 
 
-5.After it will calculate the expression. 
+  5. After it will calculate the expression. 
 
-6.If users pick the option 2 ... then it asks User to enter a Movie. 
+  6. If users pick the option 2 ... then it asks User to enter a Movie. 
 
-7.After it gives the information about that movie.
+  7. After it gives the information about that movie.
 
-8.If users pick the otion 3......then it ends. 
+  8. If users pick the otion 3......then it ends. 
 
-9.Finally Ends chat....when User choose to end chatbot.
+  9. Finally Ends chat....when User choose to end chatbot.
+  
+  * REPL LINK:
+  
+  
+  
+  * YOUTUBE LINK:
+  
+  
+  
 
 
 
