@@ -1,0 +1,94 @@
+body{
+  background-size: cover;
+}
+.user{
+  width: 30%;
+  font-size:18px;
+  font-weight:500;
+  border: 2px solid azure;
+  background-color:black;
+  color:white;
+  border-radius:12px;
+  padding:20px;
+  margin:10px 0;
+  margin-left: 50%;
+
+}
+.bot{
+  
+    font-size: 18px;
+    width: 30%;
+    font-weight: 500;
+    border: 2px solid #dedede;
+    background-color: black;
+    color: rgb(252, 248, 248);
+    opacity: 0.9;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 10px 0 0 7%;
+    
+  
+}
+#inp{  
+    width: 60%;
+    display: inline-block;
+    margin: 2% 0 0 7%;
+    font-size: 190%;
+    border-radius: 20px;
+    padding: 2%;
+    margin-bottom: 30px;
+   background-color:yellow;
+}
+
+.button{
+    color:yellow;
+    background-color: black;
+    padding-top:27px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-bottom:15px;
+    border-radius: 15px;
+    border-block-end-style: inherit;
+}
+
+.heading{
+  font-size: 50px;
+  padding-top: 33px;
+  color: white;
+  text-align:center;
+  padding-bottom: 30px;
+}
+
+.cursor{
+  height:0.7cm;
+  width: 0.7cm;
+  cursor: wait;
+  margin-bottom:8px;
+}
+
+.img{
+    width: 500px;
+    padding-bottom: 5px;
+    margin-bottom: 19px;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: -131px;
+}
+
+ 
+.bot_image{
+  margin-left: 7%;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.user_image{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left:75%;
+
+}
+
+
