@@ -6,7 +6,7 @@ We have done this project in a team of two members.
 
 
 * OBJECTIVE:
-It provides movies information and calculates the Expression.
+It provides list of movies information and calculates the Expression.
 
 
 * DESCRIPTION:
@@ -16,27 +16,31 @@ It provides movies information and calculates the Expression.
  2. After it welcomes the user and asks how to help the user.
 
  3. Next it offer choices and asks to pick one of the choices based upon user requirement. 
+# Calculate a expression:
+ *If users picks option 1 ... then it asks user to  enter a expression 
 
- 4. If users picks option 1 ... then it asks user to  enter a expression 
+ *After it will calculate the expression. 
+ # List of Information about movies
 
- 5. After it will calculate the expression. 
+ *If users pick the option 2 ... then it asks User to enter a Movie. 
 
- 6. If users pick the option 2 ... then it asks User to enter a Movie. 
+ *After it gives the information about that movie.
+ #End the bot
 
- 7. After it gives the information about that movie.
+ *If users pick the otion 3......then it ends. 
 
- 8. If users pick the otion 3......then it ends. 
-
- 9. Finally Ends chat....when User choose to end chatbot.
-  
- * REPL CODE LINK:
+ *Finally Ends chat....when User choose to end chatbot.
  
+ Links of Our Bot:
+  
+ * REPL Code LINK:https://repl.it/@VadlamuriKumar/DeepskyblueGrizzledTraining#index.html
  
- * REPL WEBBOT LINK:
+  * REPL demo LINK:https://deepskybluegrizzledtraining.vadlamurikumar.repl.co/
+
   
   
   
- * YOUTUBE LINK: https://www.youtube.com/watch?v=G3gwKpKnShw&feature=youtu.be
+ * YOUTUBE LINK:
   
   
   
